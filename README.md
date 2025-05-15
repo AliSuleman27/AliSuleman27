@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Suleman</h1>
 <h3 align="center">A Passionate AI Engineer & Machine Learning Specialist, from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisuleman27&label=Profile%20views&color=0e75b6&style=flat" alt="alisuleman27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisuleman27" alt="alisuleman27" /></a> </p>
-
 - 🔭 I’m currently working on [AI-Resume-Job-Matching-System (Emploify.io)](https://github.com/AliSuleman27/AI-Resume-Job-Matching)
 
 - 🌱 I’m currently learning **Agentic AI, Langgraphs, RAG, Deep Neural Networks, Recommender Systems, Informational Retreival**
