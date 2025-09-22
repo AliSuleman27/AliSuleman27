@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **ML, DL, NLP, Agentic AI, GenerativeAI**
 
-- 📫 How to reach me **alisulemanrajpar27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
