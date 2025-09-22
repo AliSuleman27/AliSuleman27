@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://portfolio-zeta-two-49.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-suleman-a511942aa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-suleman-as1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-suleman-a511942aa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alisuleman9721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alisuleman9721" height="30" width="40" /></a>
 </p>
 
