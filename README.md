@@ -7,7 +7,8 @@
 
 - 🤝 I’m looking for help with **Deepstream Pipeline for CV Tasks**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-zeta-two-49.vercel.app/](https://portfolio-zeta-two-49.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-alisuleman.vercel.app/](https://portfolio-alisuleman.vercel.app/)
+
 
 - 💬 Ask me about **ML, DL, NLP, Agentic AI, GenerativeAI**
 
